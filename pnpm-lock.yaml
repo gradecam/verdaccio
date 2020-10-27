@@ -197,17 +197,17 @@ importers:
       body-parser: 1.19.0
       supertest: 5.0.0-0
     specifiers:
-      '@verdaccio/auth': 'workspace:5.0.0-alpha.0'
+      '@verdaccio/auth': 'workspace:5.0.0-alpha.1'
       '@verdaccio/commons-api': 'workspace:*'
-      '@verdaccio/config': 'workspace:5.0.0-alpha.0'
-      '@verdaccio/dev-commons': 'workspace:5.0.0-alpha.0'
-      '@verdaccio/hooks': 'workspace:5.0.0-alpha.0'
-      '@verdaccio/logger': 'workspace:5.0.0-alpha.0'
-      '@verdaccio/middleware': 'workspace:5.0.0-alpha.0'
-      '@verdaccio/server': 'workspace:5.0.0-alpha.0'
-      '@verdaccio/store': 'workspace:5.0.0-alpha.0'
+      '@verdaccio/config': 'workspace:5.0.0-alpha.1'
+      '@verdaccio/dev-commons': 'workspace:5.0.0-alpha.1'
+      '@verdaccio/hooks': 'workspace:5.0.0-alpha.1'
+      '@verdaccio/logger': 'workspace:5.0.0-alpha.1'
+      '@verdaccio/middleware': 'workspace:5.0.0-alpha.1'
+      '@verdaccio/server': 'workspace:5.0.0-alpha.1'
+      '@verdaccio/store': 'workspace:5.0.0-alpha.1'
       '@verdaccio/types': 'workspace:*'
-      '@verdaccio/utils': 'workspace:5.0.0-alpha.0'
+      '@verdaccio/utils': 'workspace:5.0.0-alpha.1'
       body-parser: 1.19.0
       cookies: 0.8.0
       debug: ^4.1.1
@@ -233,15 +233,15 @@ importers:
       '@verdaccio/mock': 'link:../mock'
       '@verdaccio/types': 'link:../core/types'
     specifiers:
-      '@verdaccio/auth': 'workspace:5.0.0-alpha.0'
+      '@verdaccio/auth': 'workspace:5.0.0-alpha.1'
       '@verdaccio/commons-api': 'workspace:*'
-      '@verdaccio/config': 'workspace:5.0.0-alpha.0'
-      '@verdaccio/dev-commons': 'workspace:5.0.0-alpha.0'
-      '@verdaccio/loaders': 'workspace:5.0.0-alpha.0'
-      '@verdaccio/logger': 'workspace:5.0.0-alpha.0'
-      '@verdaccio/mock': 'workspace:5.0.0-alpha.0'
+      '@verdaccio/config': 'workspace:5.0.0-alpha.1'
+      '@verdaccio/dev-commons': 'workspace:5.0.0-alpha.1'
+      '@verdaccio/loaders': 'workspace:5.0.0-alpha.1'
+      '@verdaccio/logger': 'workspace:5.0.0-alpha.1'
+      '@verdaccio/mock': 'workspace:5.0.0-alpha.1'
       '@verdaccio/types': 'workspace:*'
-      '@verdaccio/utils': 'workspace:5.0.0-alpha.0'
+      '@verdaccio/utils': 'workspace:5.0.0-alpha.1'
       debug: ^4.1.1
       express: 4.17.1
       jsonwebtoken: 8.5.1
@@ -258,10 +258,10 @@ importers:
       lodash: 4.17.20
       semver: 7.3.2
     specifiers:
-      '@verdaccio/config': 'workspace:5.0.0-alpha.0'
-      '@verdaccio/logger': 'workspace:5.0.0-alpha.0'
-      '@verdaccio/node-api': 'workspace:5.0.0-alpha.0'
-      '@verdaccio/utils': 'workspace:5.0.0-alpha.0'
+      '@verdaccio/config': 'workspace:5.0.0-alpha.1'
+      '@verdaccio/logger': 'workspace:5.0.0-alpha.1'
+      '@verdaccio/node-api': 'workspace:5.0.0-alpha.1'
+      '@verdaccio/utils': 'workspace:5.0.0-alpha.1'
       commander: 5.1.0
       envinfo: 7.4.0
       kleur: 3.0.3
@@ -281,9 +281,9 @@ importers:
       lodash: 4.17.20
       mkdirp: 0.5.5
     specifiers:
-      '@verdaccio/dev-commons': 'workspace:5.0.0-alpha.0'
-      '@verdaccio/logger': 'workspace:5.0.0-alpha.0'
-      '@verdaccio/utils': 'workspace:5.0.0-alpha.0'
+      '@verdaccio/dev-commons': 'workspace:5.0.0-alpha.1'
+      '@verdaccio/logger': 'workspace:5.0.0-alpha.1'
+      '@verdaccio/utils': 'workspace:5.0.0-alpha.1'
       debug: ^4.2.0
       lodash: ^4.17.20
       mkdirp: 0.5.5
@@ -386,13 +386,13 @@ importers:
       '@verdaccio/utils': 'link:../utils'
       nock: 13.0.4
     specifiers:
-      '@verdaccio/auth': 'workspace:5.0.0-alpha.0'
+      '@verdaccio/auth': 'workspace:5.0.0-alpha.1'
       '@verdaccio/commons-api': 'workspace:*'
-      '@verdaccio/config': 'workspace:5.0.0-alpha.0'
-      '@verdaccio/dev-commons': 'workspace:5.0.0-alpha.0'
-      '@verdaccio/logger': 'workspace:5.0.0-alpha.0'
+      '@verdaccio/config': 'workspace:5.0.0-alpha.1'
+      '@verdaccio/dev-commons': 'workspace:5.0.0-alpha.1'
+      '@verdaccio/logger': 'workspace:5.0.0-alpha.1'
       '@verdaccio/types': 'workspace:*'
-      '@verdaccio/utils': 'workspace:5.0.0-alpha.0'
+      '@verdaccio/utils': 'workspace:5.0.0-alpha.1'
       debug: ^4.2.0
       handlebars: 4.5.3
       nock: ^13.0.4
@@ -411,10 +411,10 @@ importers:
       '@verdaccio/types': 'link:../core/types'
     specifiers:
       '@verdaccio/commons-api': 'workspace:*'
-      '@verdaccio/config': 'workspace:5.0.0-alpha.0'
-      '@verdaccio/dev-commons': 'workspace:5.0.0-alpha.0'
-      '@verdaccio/logger': 'workspace:5.0.0-alpha.0'
-      '@verdaccio/mock': 'workspace:5.0.0-alpha.0'
+      '@verdaccio/config': 'workspace:5.0.0-alpha.1'
+      '@verdaccio/dev-commons': 'workspace:5.0.0-alpha.1'
+      '@verdaccio/logger': 'workspace:5.0.0-alpha.1'
+      '@verdaccio/mock': 'workspace:5.0.0-alpha.1'
       '@verdaccio/types': 'workspace:*'
       debug: ^4.1.1
       lodash: 4.17.15
@@ -428,7 +428,7 @@ importers:
       '@verdaccio/types': 'link:../core/types'
     specifiers:
       '@types/pino': 5.20.0
-      '@verdaccio/logger-prettify': 'workspace:5.0.0-alpha.0'
+      '@verdaccio/logger-prettify': 'workspace:5.0.0-alpha.1'
       '@verdaccio/types': 'workspace:*'
       lodash: 4.17.15
       pino: 5.17.0
@@ -450,7 +450,7 @@ importers:
     specifiers:
       '@types/pino': 6.0.1
       '@verdaccio/commons-api': 'workspace:*'
-      '@verdaccio/dev-commons': 'workspace:5.0.0-alpha.0'
+      '@verdaccio/dev-commons': 'workspace:5.0.0-alpha.1'
       dayjs: 1.8.19
       fast-safe-stringify: 2.0.7
       kleur: 3.0.3
@@ -469,11 +469,11 @@ importers:
       '@verdaccio/utils': 'link:../utils'
       lodash: 4.17.15
     specifiers:
-      '@verdaccio/auth': 'workspace:5.0.0-alpha.0'
+      '@verdaccio/auth': 'workspace:5.0.0-alpha.1'
       '@verdaccio/commons-api': 'workspace:*'
-      '@verdaccio/dev-commons': 'workspace:5.0.0-alpha.0'
-      '@verdaccio/logger': 'workspace:5.0.0-alpha.0'
-      '@verdaccio/utils': 'workspace:5.0.0-alpha.0'
+      '@verdaccio/dev-commons': 'workspace:5.0.0-alpha.1'
+      '@verdaccio/logger': 'workspace:5.0.0-alpha.1'
+      '@verdaccio/utils': 'workspace:5.0.0-alpha.1'
       lodash: 4.17.15
   packages/mock:
     dependencies:
@@ -484,19 +484,19 @@ importers:
       lodash: 4.17.20
       request: 2.87.0
       supertest: 4.0.2
-      verdaccio: 4.8.1
+      verdaccio: 'link:../verdaccio'
     devDependencies:
       '@verdaccio/types': 'link:../core/types'
     specifiers:
-      '@verdaccio/dev-commons': 'workspace:5.0.0-alpha.0'
+      '@verdaccio/dev-commons': 'workspace:5.0.0-alpha.1'
       '@verdaccio/types': 'workspace:*'
-      '@verdaccio/utils': 'workspace:5.0.0-alpha.0'
+      '@verdaccio/utils': 'workspace:5.0.0-alpha.1'
       debug: ^4.2.0
       fs-extra: ^8.1.0
       lodash: ^4.17.20
       request: 2.87.0
       supertest: ^4.0.2
-      verdaccio: ^4.8.1
+      verdaccio: ^5.0.0-alpha.1
   packages/node-api:
     dependencies:
       '@verdaccio/dev-commons': 'link:../commons'
@@ -510,12 +510,12 @@ importers:
       '@verdaccio/mock': 'link:../mock'
       '@verdaccio/types': 'link:../core/types'
     specifiers:
-      '@verdaccio/dev-commons': 'workspace:5.0.0-alpha.0'
-      '@verdaccio/logger': 'workspace:5.0.0-alpha.0'
-      '@verdaccio/mock': 'workspace:5.0.0-alpha.0'
-      '@verdaccio/server': 'workspace:5.0.0-alpha.0'
+      '@verdaccio/dev-commons': 'workspace:5.0.0-alpha.1'
+      '@verdaccio/logger': 'workspace:5.0.0-alpha.1'
+      '@verdaccio/mock': 'workspace:5.0.0-alpha.1'
+      '@verdaccio/server': 'workspace:5.0.0-alpha.1'
       '@verdaccio/types': 'workspace:*'
-      '@verdaccio/utils': 'workspace:5.0.0-alpha.0'
+      '@verdaccio/utils': 'workspace:5.0.0-alpha.1'
       core-js: ^3.6.5
       lodash: ^4.17.20
       selfsigned: 1.10.7
@@ -615,12 +615,12 @@ importers:
     devDependencies:
       '@verdaccio/types': 'link:../core/types'
     specifiers:
-      '@verdaccio/dev-commons': 'workspace:5.0.0-alpha.0'
+      '@verdaccio/dev-commons': 'workspace:5.0.0-alpha.1'
       '@verdaccio/local-storage': 'workspace:*'
-      '@verdaccio/logger': 'workspace:5.0.0-alpha.0'
+      '@verdaccio/logger': 'workspace:5.0.0-alpha.1'
       '@verdaccio/streams': 'workspace:*'
       '@verdaccio/types': 'workspace:*'
-      '@verdaccio/utils': 'workspace:5.0.0-alpha.0'
+      '@verdaccio/utils': 'workspace:5.0.0-alpha.1'
       JSONStream: 1.3.5
       lodash: ^4.17.20
       request: 2.87.0
@@ -646,28 +646,28 @@ importers:
       '@verdaccio/proxy': 'link:../proxy'
       http-errors: 1.7.3
       request: 2.87.0
-      verdaccio: 4.4.4
+      verdaccio: 'link:../verdaccio'
     specifiers:
-      '@verdaccio/api': 'workspace:5.0.0-alpha.0'
-      '@verdaccio/auth': 'workspace:5.0.0-alpha.0'
+      '@verdaccio/api': 'workspace:5.0.0-alpha.1'
+      '@verdaccio/auth': 'workspace:5.0.0-alpha.1'
       '@verdaccio/commons-api': 'workspace:*'
-      '@verdaccio/config': 'workspace:5.0.0-alpha.0'
-      '@verdaccio/dev-commons': 'workspace:5.0.0-alpha.0'
-      '@verdaccio/loaders': 'workspace:5.0.0-alpha.0'
-      '@verdaccio/logger': 'workspace:5.0.0-alpha.0'
-      '@verdaccio/middleware': 'workspace:5.0.0-alpha.0'
-      '@verdaccio/mock': 'workspace:5.0.0-alpha.0'
-      '@verdaccio/proxy': 'workspace:5.0.0-alpha.0'
-      '@verdaccio/store': 'workspace:5.0.0-alpha.0'
-      '@verdaccio/utils': 'workspace:5.0.0-alpha.0'
-      '@verdaccio/web': 'workspace:5.0.0-alpha.0'
+      '@verdaccio/config': 'workspace:5.0.0-alpha.1'
+      '@verdaccio/dev-commons': 'workspace:5.0.0-alpha.1'
+      '@verdaccio/loaders': 'workspace:5.0.0-alpha.1'
+      '@verdaccio/logger': 'workspace:5.0.0-alpha.1'
+      '@verdaccio/middleware': 'workspace:5.0.0-alpha.1'
+      '@verdaccio/mock': 'workspace:5.0.0-alpha.1'
+      '@verdaccio/proxy': 'workspace:5.0.0-alpha.1'
+      '@verdaccio/store': 'workspace:5.0.0-alpha.1'
+      '@verdaccio/utils': 'workspace:5.0.0-alpha.1'
+      '@verdaccio/web': 'workspace:5.0.0-alpha.1'
       compression: 1.7.4
       cors: 2.8.5
       express: 4.17.1
       http-errors: 1.7.3
       lodash: 4.17.15
       request: 2.87.0
-      verdaccio: ~4.4.4
+      verdaccio: ~5.0.0-alpha.1
   packages/store:
     dependencies:
       '@verdaccio/commons-api': 'link:../core/commons-api'
@@ -689,16 +689,16 @@ importers:
       '@verdaccio/types': 'link:../core/types'
     specifiers:
       '@verdaccio/commons-api': 'workspace:*'
-      '@verdaccio/config': 'workspace:5.0.0-alpha.0'
-      '@verdaccio/dev-commons': 'workspace:5.0.0-alpha.0'
-      '@verdaccio/loaders': 'workspace:5.0.0-alpha.0'
+      '@verdaccio/config': 'workspace:5.0.0-alpha.1'
+      '@verdaccio/dev-commons': 'workspace:5.0.0-alpha.1'
+      '@verdaccio/loaders': 'workspace:5.0.0-alpha.1'
       '@verdaccio/local-storage': 'workspace:*'
-      '@verdaccio/logger': 'workspace:5.0.0-alpha.0'
-      '@verdaccio/mock': 'workspace:5.0.0-alpha.0'
-      '@verdaccio/proxy': 'workspace:5.0.0-alpha.0'
+      '@verdaccio/logger': 'workspace:5.0.0-alpha.1'
+      '@verdaccio/mock': 'workspace:5.0.0-alpha.1'
+      '@verdaccio/proxy': 'workspace:5.0.0-alpha.1'
       '@verdaccio/streams': 'workspace:*'
       '@verdaccio/types': 'workspace:*'
-      '@verdaccio/utils': 'workspace:5.0.0-alpha.0'
+      '@verdaccio/utils': 'workspace:5.0.0-alpha.1'
       async: 3.1.1
       debug: ^4.1.1
       lodash: 4.17.15
@@ -724,8 +724,8 @@ importers:
     specifiers:
       '@types/minimatch': 3.0.3
       '@verdaccio/commons-api': 'workspace:*'
-      '@verdaccio/dev-commons': 'workspace:5.0.0-alpha.0'
-      '@verdaccio/logger': 'workspace:5.0.0-alpha.0'
+      '@verdaccio/dev-commons': 'workspace:5.0.0-alpha.1'
+      '@verdaccio/logger': 'workspace:5.0.0-alpha.1'
       '@verdaccio/readme': 'workspace:*'
       js-yaml: 3.13.1
       lodash: ^4.17.20
@@ -746,16 +746,16 @@ importers:
       '@verdaccio/dev-commons': 'link:../commons'
       '@verdaccio/store': 'link:../store'
     specifiers:
-      '@verdaccio/auth': 'workspace:5.0.0-alpha.0'
-      '@verdaccio/cli': 'workspace:5.0.0-alpha.0'
+      '@verdaccio/auth': 'workspace:5.0.0-alpha.1'
+      '@verdaccio/cli': 'workspace:5.0.0-alpha.1'
       '@verdaccio/dev-commons': 'workspace:*'
-      '@verdaccio/hooks': 'workspace:5.0.0-alpha.0'
-      '@verdaccio/logger': 'workspace:5.0.0-alpha.0'
-      '@verdaccio/mock': 'workspace:5.0.0-alpha.0'
-      '@verdaccio/node-api': 'workspace:5.0.0-alpha.0'
-      '@verdaccio/store': 'workspace:5.0.0-alpha.0'
+      '@verdaccio/hooks': 'workspace:5.0.0-alpha.1'
+      '@verdaccio/logger': 'workspace:5.0.0-alpha.1'
+      '@verdaccio/mock': 'workspace:5.0.0-alpha.1'
+      '@verdaccio/node-api': 'workspace:5.0.0-alpha.1'
+      '@verdaccio/store': 'workspace:5.0.0-alpha.1'
       '@verdaccio/ui-theme': ^1.12.1
-      '@verdaccio/utils': 'workspace:5.0.0-alpha.0'
+      '@verdaccio/utils': 'workspace:5.0.0-alpha.1'
       verdaccio-htpasswd: 9.7.2
   packages/web:
     dependencies:
@@ -774,14 +774,14 @@ importers:
     devDependencies:
       '@verdaccio/types': 'link:../core/types'
     specifiers:
-      '@verdaccio/auth': 'workspace:5.0.0-alpha.0'
-      '@verdaccio/dev-commons': 'workspace:5.0.0-alpha.0'
-      '@verdaccio/loaders': 'workspace:5.0.0-alpha.0'
-      '@verdaccio/logger': 'workspace:5.0.0-alpha.0'
-      '@verdaccio/middleware': 'workspace:5.0.0-alpha.0'
-      '@verdaccio/store': 'workspace:5.0.0-alpha.0'
+      '@verdaccio/auth': 'workspace:5.0.0-alpha.1'
+      '@verdaccio/dev-commons': 'workspace:5.0.0-alpha.1'
+      '@verdaccio/loaders': 'workspace:5.0.0-alpha.1'
+      '@verdaccio/logger': 'workspace:5.0.0-alpha.1'
+      '@verdaccio/middleware': 'workspace:5.0.0-alpha.1'
+      '@verdaccio/store': 'workspace:5.0.0-alpha.1'
       '@verdaccio/types': 'workspace:*'
-      '@verdaccio/utils': 'workspace:5.0.0-alpha.0'
+      '@verdaccio/utils': 'workspace:5.0.0-alpha.1'
       body-parse: 0.1.0
       body-parser: 1.19.0
       debug: ^4.1.1
@@ -803,7 +803,7 @@ importers:
       emotion-theming: 10.0.27_c989b1aa057905c7a8b69bf973f55a19
       event-source-polyfill: 1.0.17
       fontsource-roboto: 2.2.6
-      gatsby: 2.24.51_react-dom@16.13.1+react@16.13.1
+      gatsby: 2.24.51_7b72d21834794972ca732184b7ddb751
       gatsby-image: 2.4.16
       gatsby-legacy-polyfills: 0.0.3
       gatsby-link: 2.4.13_3914268316c542370cbb046de235e031
@@ -887,7 +887,7 @@ importers:
       react-twitter-widgets: ^1.9.5
       redux: 4.0.5
       shallow-compare: 1.2.2
-lockfileVersion: 5.2
+lockfileVersion: 5.1
 packages:
   /@ardatan/aggregate-error/0.0.1:
     dev: false
@@ -4503,7 +4503,7 @@ packages:
       jest-haste-map: 26.3.0
       jest-message-util: 26.3.0
       jest-regex-util: 26.0.0
-      jest-resolve: 26.4.0
+      jest-resolve: 26.4.0_jest-resolve@26.4.0
       jest-resolve-dependencies: 26.4.2
       jest-runner: 26.4.2
       jest-runtime: 26.4.2
@@ -4573,7 +4573,7 @@ packages:
       istanbul-lib-source-maps: 4.0.0
       istanbul-reports: 3.0.2
       jest-haste-map: 26.3.0
-      jest-resolve: 26.4.0
+      jest-resolve: 26.4.0_jest-resolve@26.4.0
       jest-util: 26.3.0
       jest-worker: 26.3.0
       slash: 3.0.0
@@ -5390,7 +5390,7 @@ packages:
       error-stack-parser: 2.0.6
       string-width: 2.1.1
       strip-ansi: 3.0.1
-      webpack: 4.43.0
+      webpack: 4.43.0_webpack@4.43.0
     dev: false
     peerDependencies:
       webpack: ^2.0.0 || ^3.0.0 || ^4.0.0
@@ -6290,6 +6290,7 @@ packages:
       node: ^8.10.0 || ^10.13.0 || >=11.10.1
     peerDependencies:
       eslint: '*'
+      typescript: '*'
     resolution:
       integrity: sha512-eS6FTkq+wuMJ+sgtuNTtcqavWXqsflWcfBnlYhg/nS4aZ1leewkXGbvBhaapn1q6qf4M71bsR1tez5JTRMuqwA==
   /@typescript-eslint/experimental-utils/2.34.0_eslint@7.5.0+typescript@3.9.7:
@@ -6444,15 +6445,6 @@ packages:
       graphql: ^0.11.0 || ^0.12.0 || ^0.13.0 || ^14.0.0 || ^15.0.0
     resolution:
       integrity: sha512-e4IXXQ4nes3KyusgYV925DuzfDAfo4ex7Ls3tZfOExkxEcXh0i0XnizXp0rvZmWRch69YCkc+Lh1Gy2aY49HTQ==
-  /@verdaccio/commons-api/8.5.0:
-    dependencies:
-      http-errors: 1.7.3
-      http-status-codes: 1.4.0
-    dev: true
-    engines:
-      node: '>=8'
-    resolution:
-      integrity: sha512-1+82Jph7UHSii3+uQc936IHLytyCIOfF3lbQSh/cGBCFJTWi6/1bJ7d/BB0O/zzPaHRQkfGr+JH2MOSMs4UiGQ==
   /@verdaccio/commons-api/9.7.1:
     dependencies:
       http-errors: 1.8.0
@@ -6461,15 +6453,6 @@ packages:
       node: '>=8'
     resolution:
       integrity: sha512-s2uD3s325C0UsQ9uQTmf15dXFsGVo23IM6pSUTukCRuurCok89e/k1Adz2CaoXpEu1qpxQ6Sv0dcNpGl7Q7hwQ==
-  /@verdaccio/file-locking/1.0.0:
-    dependencies:
-      lockfile: 1.0.4
-    dev: true
-    engines:
-      node: '>=4.6.1'
-      npm: '>=2.15.9'
-    resolution:
-      integrity: sha512-FncTOEL01a8yd6xOcNX1TQgc3pRYxByAI2OaAJHjGu5xxcGoqTo6RrIDU3ILdW2ypjc9Ow/xJLarUkr6zDhyfQ==
   /@verdaccio/file-locking/9.7.2:
     dependencies:
       lockfile: 1.0.4
@@ -6486,45 +6469,26 @@ packages:
       level: 5.0.1
       lodash: 4.17.19
       mkdirp: 0.5.5
+    dev: true
     engines:
       node: '>=8'
     resolution:
       integrity: sha512-Lsn9TR1Jnkl0y7ndQQUi0ypvS9tHT4rqMiMebt2wsiy5mAlLrZ0sjw7erI7wE5sBi/L+uoq0HXfJwLjP8bfrBg==
-  /@verdaccio/readme/8.5.2:
-    dependencies:
-      dompurify: 2.0.7
-      jsdom: 15.2.1
-      marked: 0.7.0
-    dev: true
-    resolution:
-      integrity: sha512-KsNcvpvdpTatoNtoqEPdAxTna1om0EvEH9+u2zr5Ii/ZG9atx6lYPG7H41yTEuOuxbf1eOOYSQaMssdeS4BUXw==
   /@verdaccio/readme/9.7.3:
     dependencies:
       dompurify: 2.0.8
       jsdom: 15.2.1
       marked: 1.1.1
+    dev: true
     resolution:
       integrity: sha512-86Zv46Qpcx0d0YRutFPhPH4OhGSljUJyhkxk3H/bCzzw8hGEvM1Du2y8kzfAS9qUsX8Qux97vfxxz6+RpBdU1w==
-  /@verdaccio/streams/8.5.2:
-    dev: true
-    engines:
-      node: '>=8'
-      npm: '>=5'
-    resolution:
-      integrity: sha512-Rbw+vm/KHgy5OQB+jSxxIXYvVFmG/fuFmBeH7F4fp2r5h7w1TP/mlQZI7PVlPPhLZtM6Xdrzf6H+NRCwRncwIg==
   /@verdaccio/streams/9.7.2:
+    dev: true
     engines:
       node: '>=8'
       npm: '>=5'
     resolution:
       integrity: sha512-SoCG1btVFPxOcrs8w9wLJCfe8nfE6EaEXCXyRwGbh+Sr3NLEG0R8JOugGJbuSE+zIRuUs5JaUKjzSec+JKLvZw==
-  /@verdaccio/ui-theme/0.3.13:
-    dev: true
-    engines:
-      node: '>= 8'
-      npm: '>=5'
-    resolution:
-      integrity: sha512-3nDT5iJvmIYJe8UwirJbHexy21HU0YUkwvKygVe2KCPUTQu8u23/w6JyOB8reqj8w0xFfJMHI0dArnPsKxYM3Q==
   /@verdaccio/ui-theme/1.12.1:
     engines:
       node: '>= 8'
@@ -6670,10 +6634,6 @@ packages:
     dev: false
     resolution:
       integrity: sha512-NuHqBY1PB/D8xU6s/thBgOAiAP7HOYDQ32+BFZILJ8ivkUkAHQnWfn6WhL79Owj1qmUnoN/YPhktdIoucipkAQ==
-  /@yarnpkg/lockfile/1.1.0:
-    dev: true
-    resolution:
-      integrity: sha512-GpSwvyXOcOOlV70vbnzjj4fW5xW/FdUF6nQEt1ENy7m4ZCczi1+/buVUPAqmGfqznsORNFzUMjctTIp8a9tuCQ==
   /JSONStream/1.3.5:
     dependencies:
       jsonparse: 1.3.1
@@ -7251,6 +7211,7 @@ packages:
     resolution:
       integrity: sha512-zflvls11DCy+dQWzTW2dzuilv8Z5X/pjfmZOWba6TNIVDm+2UDaJmXSOXlasHKfNBs8oo3M0aT50fDEWfKZjXg==
   /async/3.1.1:
+    dev: false
     resolution:
       integrity: sha512-X5Dj8hK1pJNC2Wzo2Rcp9FBVdJMGRR/S7V+lH46s8GVFhtbo5O4Le5GECCF/8PISVdkUA6mMPvgz7qTTD1rf1g==
   /async/3.2.0:
@@ -7431,7 +7392,7 @@ packages:
       mkdirp: 0.5.5
       pify: 4.0.1
       schema-utils: 2.7.0
-      webpack: 4.43.0
+      webpack: 4.43.0_webpack@4.43.0
     dev: false
     engines:
       node: '>= 6.9'
@@ -7523,7 +7484,7 @@ packages:
       integrity: sha512-JrB9ZASlMAfkRF+5NdgoQxgenhJxzXFEO1vrqsSDJdzLrC38L2wrvXF9mm1YLbrehkZxcrNz9UYDyARP4jaY9g==
   /babel-plugin-remove-graphql-queries/2.9.17_gatsby@2.24.51:
     dependencies:
-      gatsby: 2.24.51_react-dom@16.13.1+react@16.13.1
+      gatsby: 2.24.51_7b72d21834794972ca732184b7ddb751
     dev: false
     engines:
       node: '>=10.13.0'
@@ -8152,18 +8113,6 @@ packages:
     dev: false
     resolution:
       integrity: sha1-hZgoeOIbmOHGZCXgPQF0eI9Wnug=
-  /bunyan/1.8.12:
-    dev: true
-    engines:
-      '0': node >=0.10.0
-    hasBin: true
-    optionalDependencies:
-      dtrace-provider: 0.8.8
-      moment: 2.27.0
-      mv: 2.1.1
-      safe-json-stringify: 1.2.0
-    resolution:
-      integrity: sha1-8VDw9nSKvdcq6uhPBEA74u8RN5c=
   /bunyan/1.8.14:
     engines:
       '0': node >=0.10.0
@@ -8720,6 +8669,7 @@ packages:
       string-width: 3.1.0
       strip-ansi: 5.2.0
       wrap-ansi: 5.1.0
+    dev: false
     resolution:
       integrity: sha512-PYeGSEmmHM6zvoef2w8TPzlrnNpXIjTipYK780YswmIP9vjxmd6Y2a3CB2Ks6/AU8NHjZugXvo8w3oWM2qnwXA==
   /cliui/6.0.0:
@@ -8857,6 +8807,7 @@ packages:
     resolution:
       integrity: sha512-GpVkmM8vF2vQUkj2LvZmD35JxeJOLCwJ9cUkugyk2nuhbv3+mJvpLYYt+0+USMxE+oj+ey/lJEnhZw75x/OMcQ==
   /commander/3.0.2:
+    dev: true
     resolution:
       integrity: sha512-Gar0ASD4BDyKC4hl4DwHqDrmvjoxWKZigVnAbn5H1owvm4CxCPdb0HQDehwNYMJpla5+M2tPmPARzhtYuwpHow==
   /commander/4.1.1:
@@ -9492,7 +9443,7 @@ packages:
       postcss-modules-values: 1.3.0
       postcss-value-parser: 3.3.1
       source-list-map: 2.0.1
-      webpack: 4.43.0
+      webpack: 4.43.0_webpack@4.43.0
     dev: false
     engines:
       node: '>= 6.9.0 <7.0.0 || >= 8.9.0'
@@ -9778,9 +9729,11 @@ packages:
     resolution:
       integrity: sha512-jyCETtSl3VMZMWeRo7iY1FL19ges1t55hMo5yaam4Jrsm5EPL89UQkoQRyiI+Yf4k8r2ZpdngkV8hr1lIdjb3Q==
   /dayjs/1.8.19:
+    dev: false
     resolution:
       integrity: sha512-7kqOoj3oQSmqbvtvGFLU5iYqies+SqUiEGNT0UtUPPxcPYgY1BrkXR0Cq2R9HYSimBXN+xHkEN4Hi399W+Ovlg==
   /dayjs/1.8.28:
+    dev: true
     resolution:
       integrity: sha512-ccnYgKC0/hPSGXxj7Ju6AV/BP4HUkXC2u15mikXT5mX9YorEaoi1bEKOmAqdkJHN4EEkmAf97SpH66Try5Mbeg==
   /debug/2.6.9:
@@ -10344,10 +10297,6 @@ packages:
       node: '>= 4'
     resolution:
       integrity: sha512-eKLdI5v9m67kbXQbJSNn1zjh0SDzvzWVWtX+qEI3eMjZw8daH9k8rlj1FZY9memPwjiskQFbe7vHVVJIAqoEhw==
-  /dompurify/2.0.7:
-    dev: true
-    resolution:
-      integrity: sha512-S3O0lk6rFJtO01ZTzMollCOGg+WAtCwS3U5E2WSDY/x/sy7q70RjEC4Dmrih5/UqzLLB9XoKJ8KqwBxaNvBu4A==
   /dompurify/2.0.8:
     resolution:
       integrity: sha512-vIOSyOXkMx81ghEalh4MLBtDHMx1bhKlaqHDMqM2yeitJ996SLOk5mGdDpI9ifJAgokred8Rmu219fX4OltqXw==
@@ -10661,14 +10610,8 @@ packages:
     hasBin: true
     resolution:
       integrity: sha512-FdDfnWnCVjxTTpWE3d6Jgh5JDIA3Cw7LCgpM/pI7kK1ORkjaqI2r6NqQ+ln2j0dfpgxY00AWieSvtkiZQKIItA==
-  /envinfo/7.5.0:
-    dev: true
-    engines:
-      node: '>=4'
-    hasBin: true
-    resolution:
-      integrity: sha512-jDgnJaF/Btomk+m3PZDTTCb5XIIIX3zYItnCRfF73zVgvinLoRomuhi75Y4su0PtQxWz4v66XnLLckyvyJTOIQ==
   /envinfo/7.5.1:
+    dev: true
     engines:
       node: '>=4'
     hasBin: true
@@ -10873,7 +10816,7 @@ packages:
       object-assign: 4.1.1
       object-hash: 1.3.1
       rimraf: 2.7.1
-      webpack: 4.43.0
+      webpack: 4.43.0_webpack@4.43.0
     dev: false
     peerDependencies:
       eslint: '>=1.6.0 <7.0.0'
@@ -11729,7 +11672,7 @@ packages:
     dependencies:
       loader-utils: 1.4.0
       schema-utils: 0.4.7
-      webpack: 4.43.0
+      webpack: 4.43.0_webpack@4.43.0
     dev: false
     engines:
       node: '>= 4.3 < 5.0.0 || >= 5.10'
@@ -12280,7 +12223,7 @@ packages:
       case: 1.6.3
       date-fns: 2.15.0
       formik: 2.1.5_react@16.13.1
-      gatsby: 2.24.51_react-dom@16.13.1+react@16.13.1
+      gatsby: 2.24.51_7b72d21834794972ca732184b7ddb751
       gatsby-design-tokens: 2.0.11
       lodash.sample: 4.2.1
       prop-types: 15.7.2
@@ -12345,7 +12288,7 @@ packages:
       '@babel/runtime': 7.11.2
       '@emotion/babel-preset-css-prop': 10.0.27
       '@emotion/core': 10.0.28_react@16.13.1
-      gatsby: 2.24.51_react-dom@16.13.1+react@16.13.1
+      gatsby: 2.24.51_7b72d21834794972ca732184b7ddb751
     dev: false
     engines:
       node: '>=10.13.0'
@@ -12358,7 +12301,7 @@ packages:
   /gatsby-plugin-manifest/2.4.2_gatsby@2.24.51:
     dependencies:
       '@babel/runtime': 7.11.2
-      gatsby: 2.24.51_react-dom@16.13.1+react@16.13.1
+      gatsby: 2.24.51_7b72d21834794972ca732184b7ddb751
       gatsby-core-utils: 1.3.17
       semver: 5.7.1
       sharp: 0.25.4
@@ -12374,7 +12317,7 @@ packages:
       '@material-ui/styles': 4.9.13_react-dom@16.13.1+react@16.13.1
       autoprefixer: 9.8.6
       clean-css: 4.2.3
-      gatsby: 2.24.51_react-dom@16.13.1+react@16.13.1
+      gatsby: 2.24.51_7b72d21834794972ca732184b7ddb751
       postcss: 7.0.32
     dev: false
     peerDependencies:
@@ -12386,7 +12329,7 @@ packages:
     dependencies:
       '@babel/traverse': 7.11.0
       fs-exists-cached: 1.0.0
-      gatsby: 2.24.51_react-dom@16.13.1+react@16.13.1
+      gatsby: 2.24.51_7b72d21834794972ca732184b7ddb751
       gatsby-page-utils: 0.2.22
       globby: 11.0.1
       graphql: 14.7.0
@@ -12402,7 +12345,7 @@ packages:
   /gatsby-plugin-react-helmet/3.3.1_447a98ddbb835e5cc5f8159cca627346:
     dependencies:
       '@babel/runtime': 7.11.2
-      gatsby: 2.24.51_react-dom@16.13.1+react@16.13.1
+      gatsby: 2.24.51_7b72d21834794972ca732184b7ddb751
       react-helmet: 5.2.1_react@16.13.1
     dev: false
     engines:
@@ -12418,7 +12361,7 @@ packages:
       async: 3.2.0
       bluebird: 3.7.2
       fs-extra: 9.0.1
-      gatsby: 2.24.51_react-dom@16.13.1+react@16.13.1
+      gatsby: 2.24.51_7b72d21834794972ca732184b7ddb751
       gatsby-core-utils: 1.3.19
       got: 10.7.0
       imagemin: 7.0.1
@@ -12443,7 +12386,7 @@ packages:
   /gatsby-plugin-twitter/2.3.10_gatsby@2.24.51:
     dependencies:
       '@babel/runtime': 7.11.2
-      gatsby: 2.24.51_react-dom@16.13.1+react@16.13.1
+      gatsby: 2.24.51_7b72d21834794972ca732184b7ddb751
     dev: false
     engines:
       node: '>=10.13.0'
@@ -12581,7 +12524,7 @@ packages:
       '@babel/runtime': 7.11.2
       chalk: 2.4.2
       cheerio: 1.0.0-rc.3
-      gatsby: 2.24.51_react-dom@16.13.1+react@16.13.1
+      gatsby: 2.24.51_7b72d21834794972ca732184b7ddb751
       gatsby-core-utils: 1.3.19
       gatsby-plugin-sharp: 2.6.35_gatsby@2.24.51
       is-relative-url: 3.0.0
@@ -12602,7 +12545,7 @@ packages:
   /gatsby-remark-prismjs/3.5.11_gatsby@2.24.51+prismjs@1.21.0:
     dependencies:
       '@babel/runtime': 7.11.2
-      gatsby: 2.24.51_react-dom@16.13.1+react@16.13.1
+      gatsby: 2.24.51_7b72d21834794972ca732184b7ddb751
       parse-numeric-range: 0.0.2
       prismjs: 1.21.0
       unist-util-visit: 1.4.1
@@ -12622,7 +12565,7 @@ packages:
       chokidar: 3.4.0
       file-type: 12.4.2
       fs-extra: 8.1.0
-      gatsby: 2.24.51_react-dom@16.13.1+react@16.13.1
+      gatsby: 2.24.51_7b72d21834794972ca732184b7ddb751
       gatsby-core-utils: 1.3.17
       got: 9.6.0
       md5-file: 3.2.3
@@ -12666,7 +12609,7 @@ packages:
     dependencies:
       '@babel/runtime': 7.11.2
       bluebird: 3.7.2
-      gatsby: 2.24.51_react-dom@16.13.1+react@16.13.1
+      gatsby: 2.24.51_7b72d21834794972ca732184b7ddb751
       gatsby-core-utils: 1.3.17
       gray-matter: 4.0.2
       hast-util-raw: 4.0.0
@@ -12698,7 +12641,7 @@ packages:
       '@babel/runtime': 7.11.2
       bluebird: 3.7.2
       fs-extra: 8.1.0
-      gatsby: 2.24.51_react-dom@16.13.1+react@16.13.1
+      gatsby: 2.24.51_7b72d21834794972ca732184b7ddb751
       gatsby-plugin-sharp: 2.6.35_gatsby@2.24.51
       potrace: 2.1.8
       probe-image-size: 4.1.1
@@ -12712,7 +12655,7 @@ packages:
       gatsby-plugin-sharp: ^2.0.0-beta.3
     resolution:
       integrity: sha512-deRZzUXQsk4xQM82JipU3WRJB8oFn4gX9cVRXeQhnNwnhdhve9UA0Hs4YqqqWsSbngCX9GeiGS78zDyjvN7e7w==
-  /gatsby/2.24.51_react-dom@16.13.1+react@16.13.1:
+  /gatsby/2.24.51_7b72d21834794972ca732184b7ddb751:
     dependencies:
       '@babel/code-frame': 7.10.4
       '@babel/core': 7.11.4
@@ -12850,7 +12793,7 @@ packages:
       util.promisify: 1.0.1
       uuid: 3.4.0
       v8-compile-cache: 1.1.2
-      webpack: 4.43.0
+      webpack: 4.43.0_webpack@4.43.0
       webpack-dev-middleware: 3.7.2_webpack@4.43.0
       webpack-dev-server: 3.11.0_webpack@4.43.0
       webpack-hot-middleware: 2.25.0
@@ -12864,6 +12807,7 @@ packages:
       node: '>=10.13.0'
     hasBin: true
     peerDependencies:
+      gatsby: '*'
       react: ^16.4.2
       react-dom: ^16.4.2
     requiresBuild: true
@@ -13534,25 +13478,13 @@ packages:
       uglify-js: 3.10.2
     resolution:
       integrity: sha512-3yPecJoJHK/4c6aZhSvxOyG4vJKDshV36VHp0iVCDVh7o9w2vwi3NSnL2MMPj3YdduqaBcu7cGbggJQM0br9xA==
-  /handlebars/4.7.2:
-    dependencies:
-      neo-async: 2.6.2
-      optimist: 0.6.1
-      source-map: 0.6.1
-    dev: true
-    engines:
-      node: '>=0.4.7'
-    hasBin: true
-    optionalDependencies:
-      uglify-js: 3.10.2
-    resolution:
-      integrity: sha512-4PwqDL2laXtTWZghzzCtunQUTLbo31pcCJrd/B/9JP8XbhVzpS5ZXuKqlOzsd1rtcaLo4KqAn8nl8mkknS4MHw==
   /handlebars/4.7.6:
     dependencies:
       minimist: 1.2.5
       neo-async: 2.6.2
       source-map: 0.6.1
       wordwrap: 1.0.0
+    dev: true
     engines:
       node: '>=0.4.7'
     hasBin: true
@@ -15218,7 +15150,7 @@ packages:
       jest-get-type: 26.3.0
       jest-jasmine2: 26.4.2
       jest-regex-util: 26.0.0
-      jest-resolve: 26.4.0
+      jest-resolve: 26.4.0_jest-resolve@26.4.0
       jest-util: 26.3.0
       jest-validate: 26.4.2
       micromatch: 4.0.2
@@ -15423,7 +15355,7 @@ packages:
       integrity: sha512-PeaRrg8Dc6mnS35gOo/CbZovoDPKAeB1FICZiuagAgGvbWdNNyjQjkOaGUa/3N3JtpQ/Mh9P4A2D4Fv51NnP8Q==
   /jest-pnp-resolver/1.2.2_jest-resolve@26.4.0:
     dependencies:
-      jest-resolve: 26.4.0
+      jest-resolve: 26.4.0_jest-resolve@26.4.0
     dev: true
     engines:
       node: '>=6'
@@ -15450,7 +15382,7 @@ packages:
       node: '>= 10.14.2'
     resolution:
       integrity: sha512-ADHaOwqEcVc71uTfySzSowA/RdxUpCxhxa2FNLiin9vWLB1uLPad3we+JSSROq5+SrL9iYPdZZF8bdKM7XABTQ==
-  /jest-resolve/26.4.0:
+  /jest-resolve/26.4.0_jest-resolve@26.4.0:
     dependencies:
       '@jest/types': 26.3.0
       chalk: 4.1.0
@@ -15463,6 +15395,8 @@ packages:
     dev: true
     engines:
       node: '>= 10.14.2'
+    peerDependencies:
+      jest-resolve: '*'
     resolution:
       integrity: sha512-bn/JoZTEXRSlEx3+SfgZcJAVuTMOksYq9xe9O6s4Ekg84aKBObEaVXKOEilULRqviSLAYJldnoWV9c07kwtiCg==
   /jest-runner/26.4.2:
@@ -15481,7 +15415,7 @@ packages:
       jest-haste-map: 26.3.0
       jest-leak-detector: 26.4.2
       jest-message-util: 26.3.0
-      jest-resolve: 26.4.0
+      jest-resolve: 26.4.0_jest-resolve@26.4.0
       jest-runtime: 26.4.2
       jest-util: 26.3.0
       jest-worker: 26.3.0
@@ -15513,7 +15447,7 @@ packages:
       jest-message-util: 26.3.0
       jest-mock: 26.3.0
       jest-regex-util: 26.0.0
-      jest-resolve: 26.4.0
+      jest-resolve: 26.4.0_jest-resolve@26.4.0
       jest-snapshot: 26.4.2
       jest-util: 26.3.0
       jest-validate: 26.4.2
@@ -15548,7 +15482,7 @@ packages:
       jest-haste-map: 26.3.0
       jest-matcher-utils: 26.4.2
       jest-message-util: 26.3.0
-      jest-resolve: 26.4.0
+      jest-resolve: 26.4.0_jest-resolve@26.4.0
       natural-compare: 1.4.0
       pretty-format: 26.4.2
       semver: 7.3.2
@@ -15658,6 +15592,7 @@ packages:
     dependencies:
       argparse: 1.0.10
       esprima: 4.0.1
+    dev: false
     hasBin: true
     resolution:
       integrity: sha512-YfbcO7jXDdyj0DGxYVSlSeQNHbD7XPWvrVWeVUujrQEoZzWJIRrCPoyk6kL6IAjAG2IolMK4T0hNUe0HOUs5Jw==
@@ -16043,6 +15978,7 @@ packages:
     resolution:
       integrity: sha512-eTIzlVOSUR+JxdDFepEYcBMtZ9Qqdef+rnzWdRZuMbOywu5tO2w2N7rqjoANZ5k9vywhL6Br1VRjUIgTQx4E8w==
   /kleur/4.0.2:
+    dev: true
     engines:
       node: '>=6'
     resolution:
@@ -16221,7 +16157,7 @@ packages:
       debug: 4.1.1
       dedent: 0.7.0
       execa: 3.4.0
-      listr: 0.14.3
+      listr: 0.14.3_listr@0.14.3
       log-symbols: 3.0.0
       micromatch: 4.0.2
       normalize-path: 3.0.0
@@ -16244,7 +16180,7 @@ packages:
       g-status: 2.0.2
       is-glob: 4.0.1
       is-windows: 1.0.2
-      listr: 0.14.3
+      listr: 0.14.3_listr@0.14.3
       listr-update-renderer: 0.5.0_listr@0.14.3
       lodash: 4.17.20
       log-symbols: 2.2.0
@@ -16309,7 +16245,7 @@ packages:
       elegant-spinner: 1.0.1
       figures: 1.7.0
       indent-string: 3.2.0
-      listr: 0.14.3
+      listr: 0.14.3_listr@0.14.3
       log-symbols: 1.0.2
       log-update: 2.3.0
       strip-ansi: 3.0.1
@@ -16331,7 +16267,7 @@ packages:
       node: '>=4'
     resolution:
       integrity: sha512-04PDPqSlsqIOaaaGZ+41vq5FejI9auqTInicFRndCBgE3bXG8D6W1I+mWhk+1nqbHmyhla/6BUrd5OSiHwKRXw==
-  /listr/0.14.3:
+  /listr/0.14.3_listr@0.14.3:
     dependencies:
       '@samverschueren/stream-to-observable': 0.3.1_rxjs@6.6.2
       is-observable: 1.1.0
@@ -16345,6 +16281,8 @@ packages:
     dev: true
     engines:
       node: '>=6'
+    peerDependencies:
+      listr: '*'
     resolution:
       integrity: sha512-RmAl7su35BFd/xoMamRjpIE4j3v+L28o8CT5YhAXQJm1fD+1l9ngXY8JAQRJ+tFK2i5njvi0iRUKV09vPwA0iA==
   /load-bmfont/1.4.1:
@@ -16465,26 +16403,6 @@ packages:
     dev: false
     resolution:
       integrity: sha1-UxV0mdFlOxNspmRRBx/KYVcD+lU=
-  /lockfile-lint-api/2.3.0:
-    dependencies:
-      '@yarnpkg/lockfile': 1.1.0
-      debug: 4.1.1
-    dev: true
-    engines:
-      node: '>=8.0.0'
-    resolution:
-      integrity: sha512-4jp8ULItLgsaPgPjxm/nuupIiBbxWf/nA05gRGMtvJQxGoSOOYA1LxSunY5p1b4kw7u6ZW5TZNgcIs4cFvp9lw==
-  /lockfile-lint/2.2.0:
-    dependencies:
-      debug: 4.1.1
-      lockfile-lint-api: 2.3.0
-      yargs: 13.3.2
-    dev: true
-    engines:
-      node: '>=8.0.0'
-    hasBin: true
-    resolution:
-      integrity: sha512-3RMEInA86I/NNp4ZYnh9UDme736Iym0JE++CdfqXt5VjqRK+LnnaE0v+swqpgDO+FVF/AsjpdocipN6qefEpsQ==
   /lockfile/1.0.4:
     dependencies:
       signal-exit: 3.0.3
@@ -16603,6 +16521,7 @@ packages:
     resolution:
       integrity: sha512-8xOcRHvCjnocdS5cpwXQXVzmmh5e5+saE2QGoeQmbKmRS6J3VQppPOIt0MnmE+4xlZoumy0GPG0D0MVIQbNA1A==
   /lodash/4.17.19:
+    dev: true
     resolution:
       integrity: sha512-JNvd8XER9GQX0v2qJgsaN/mzFCNA5BRe/j8JN9d+tWyGLSodKQHKFicdwNYzWwI3wjRnaKPsGj1XkBjx/F96DQ==
   /lodash/4.17.20:
@@ -16862,20 +16781,6 @@ packages:
     dev: false
     resolution:
       integrity: sha512-Ezda85ToJUBhM6WGaG6veasyym+Tbs3cMAw/ZhOPqXiYsr0jgocBV3j3nx+4lk47plLlIqjwuTm/ywVI+zjJ/A==
-  /marked/0.7.0:
-    dev: true
-    engines:
-      node: '>=0.10.0'
-    hasBin: true
-    resolution:
-      integrity: sha512-c+yYdCZJQrsRjTPhUx7VKkApw9bwDkNbHUKo1ovgcfDjb2kc8rLuRbIFyXL5WOEUwzSSKo3IXpph2K6DqB/KZg==
-  /marked/0.8.0:
-    dev: true
-    engines:
-      node: '>= 8.16.2'
-    hasBin: true
-    resolution:
-      integrity: sha512-MyUe+T/Pw4TZufHkzAfDj6HarCBWia2y27/bhuYkTaiUnfDYFnCP3KUN+9oM7Wi6JA2rymtVYbQu3spE0GCmxQ==
   /marked/1.1.1:
     engines:
       node: '>= 8.16.2'
@@ -17180,6 +17085,7 @@ packages:
     resolution:
       integrity: sha512-x0Vn8spI+wuJ1O6S7gnbaQg8Pxh4NNHb7KSINmEWKiPE4RKOplvijn+NkmYmmRgP68mc70j2EbeTFRsrswaQeg==
   /mime/2.4.4:
+    dev: false
     engines:
       node: '>=4.0.0'
     hasBin: true
@@ -17235,7 +17141,7 @@ packages:
       loader-utils: 1.4.0
       normalize-url: 1.9.1
       schema-utils: 1.0.0
-      webpack: 4.43.0
+      webpack: 4.43.0_webpack@4.43.0
       webpack-sources: 1.4.3
     dev: false
     engines:
@@ -17287,12 +17193,9 @@ packages:
     resolution:
       integrity: sha512-Q4r8ghd80yhO/0j1O3B2BjweX3fiHg9cdOwjJd2J76Q135c+NDxGCqdYKQ1SKBuFfgWbAUzBfvYjPUEeNgqN1A==
   /minimist/0.0.10:
+    dev: false
     resolution:
       integrity: sha1-3j+YVD2/lggr5IrRoMfNqDYwHc8=
-  /minimist/0.0.8:
-    dev: true
-    resolution:
-      integrity: sha1-hX/Kv8M5fSYluCKCYuhqp6ARsF0=
   /minimist/0.2.1:
     dev: false
     resolution:
@@ -17360,13 +17263,6 @@ packages:
     dev: false
     resolution:
       integrity: sha512-gKLcREMhtuZRwRAfqP3RFW+TK4JqApVBtOIftVgjuABpAtpxhPGaDcfvbhNvD0B8iD1oUr/txX35NjcaY6Ns/A==
-  /mkdirp/0.5.1:
-    dependencies:
-      minimist: 0.0.8
-    dev: true
-    hasBin: true
-    resolution:
-      integrity: sha1-MAV0OOrGz3+MR2fzhkjWaX11yQM=
   /mkdirp/0.5.5:
     dependencies:
       minimist: 1.2.5
@@ -17835,7 +17731,7 @@ packages:
     dependencies:
       loader-utils: 1.4.0
       schema-utils: 1.0.0
-      webpack: 4.43.0
+      webpack: 4.43.0_webpack@4.43.0
     dev: false
     engines:
       node: '>= 8.9.0'
@@ -18050,13 +17946,14 @@ packages:
     dependencies:
       minimist: 0.0.10
       wordwrap: 0.0.3
+    dev: false
     resolution:
       integrity: sha1-2j6nRob6IaGaERwybpDrFaAZZoY=
   /optimize-css-assets-webpack-plugin/5.0.3_webpack@4.43.0:
     dependencies:
       cssnano: 4.1.10
       last-call-webpack-plugin: 3.0.0
-      webpack: 4.43.0
+      webpack: 4.43.0_webpack@4.43.0
     dev: false
     peerDependencies:
       webpack: ^4.0.0
@@ -18791,6 +18688,7 @@ packages:
     resolution:
       integrity: sha512-HRDzbaKjC+AOWVXxAU/x54COGeIv9eb+6CkDSQoNTt4XyWoIJvuPsXizxu/Fr23EiekbtZwmh1IcIG/l/a10GQ==
   /pkginfo/0.4.1:
+    dev: true
     engines:
       node: '>= 0.4.0'
     resolution:
@@ -20531,6 +20429,7 @@ packages:
       tough-cookie: 2.4.3
       tunnel-agent: 0.6.0
       uuid: 3.4.0
+    dev: true
     engines:
       node: '>= 4'
     resolution:
@@ -20963,6 +20862,7 @@ packages:
     resolution:
       integrity: sha512-WfuG+fl6eh3eZ2qAf6goB7nhiCd7NPXhmyFxigB/TOkQyeLP8w8GsVehvtGNtnNmyboz4TgeK40B1Kbql/8c5A==
   /semver/7.1.2:
+    dev: false
     engines:
       node: '>=10'
     hasBin: true
@@ -22279,7 +22179,7 @@ packages:
       serialize-javascript: 4.0.0
       source-map: 0.6.1
       terser: 4.8.0
-      webpack: 4.43.0
+      webpack: 4.43.0_webpack@4.43.0
       webpack-sources: 1.4.3
       worker-farm: 1.7.0
     dev: false
@@ -22492,6 +22392,7 @@ packages:
     dependencies:
       psl: 1.8.0
       punycode: 1.4.1
+    dev: true
     engines:
       node: '>=0.8'
     resolution:
@@ -23074,7 +22975,7 @@ packages:
       loader-utils: 1.4.0
       mime: 2.4.6
       schema-utils: 1.0.0
-      webpack: 4.43.0
+      webpack: 4.43.0_webpack@4.43.0
     dev: false
     engines:
       node: '>= 6.9.0'
@@ -23276,19 +23177,11 @@ packages:
     dev: false
     resolution:
       integrity: sha512-/juG65kTL4Cy2su4P8HjtkTxk6VmJDiOPBufWniqQ6wknac6jNiXS9vU+hO3wgusiyqWlzTbVHi0dyJqRONg3w==
-  /verdaccio-audit/8.5.2:
-    dependencies:
-      express: 4.17.1
-      request: 2.88.0
-    dev: true
-    engines:
-      node: '>=8'
-    resolution:
-      integrity: sha512-eFRNiWrr6tkEFlyg+H1KLiu/MlocZP0h870mf/HH6mBCy1X33oIfVhvdA0ZSq72ksI9yu8rqHdfOh2ZpQM0fDA==
   /verdaccio-audit/9.7.3:
     dependencies:
       express: 4.17.1
       request: 2.88.2
+    dev: true
     engines:
       node: '>=8'
     resolution:
@@ -23301,18 +23194,6 @@ packages:
       node: '>=8'
     resolution:
       integrity: sha512-pxFGUk91kAJPrmjRIzHRn/cnLmyuN925nA1iH2Bf6kdP9E0uEGK/pRjMh8BuXWFLsGe9E6N7HR86cub1/qcrzA==
-  /verdaccio-htpasswd/8.5.2:
-    dependencies:
-      '@verdaccio/file-locking': 1.0.0
-      apache-md5: 1.1.2
-      bcryptjs: 2.4.3
-      http-errors: 1.7.3
-      unix-crypt-td-js: 1.1.4
-    dev: true
-    engines:
-      node: '>=8'
-    resolution:
-      integrity: sha512-3MIGCaJY6KgcBJ5LVsw2xHHOqKHdcY6SlpHcROu8b2lhlJ37+TUtVo0LceltvptCJcAiNZ5nxrMEc4wj2RJa4A==
   /verdaccio-htpasswd/9.7.2:
     dependencies:
       '@verdaccio/file-locking': 9.7.2
@@ -23334,49 +23215,6 @@ packages:
       node: '>=8'
     resolution:
       integrity: sha512-HKUbbgY147dOV4GhOoC/iVTl87RPVKN7dLX/EBSH23TwR/tClQdGduRLy9yeqc/0iouGc0GXm2IWK/1qoBuy4w==
-  /verdaccio/4.4.4:
-    dependencies:
-      '@verdaccio/commons-api': 8.5.0
-      '@verdaccio/local-storage': 9.7.2
-      '@verdaccio/readme': 8.5.2
-      '@verdaccio/streams': 8.5.2
-      '@verdaccio/ui-theme': 0.3.13
-      JSONStream: 1.3.5
-      async: 3.1.1
-      body-parser: 1.19.0
-      bunyan: 1.8.12
-      commander: 3.0.2
-      compression: 1.7.4
-      cookies: 0.8.0
-      cors: 2.8.5
-      dayjs: 1.8.19
-      envinfo: 7.5.0
-      express: 4.17.1
-      handlebars: 4.7.2
-      http-errors: 1.7.3
-      js-yaml: 3.13.1
-      jsonwebtoken: 8.5.1
-      kleur: 3.0.3
-      lockfile-lint: 2.2.0
-      lodash: 4.17.15
-      lunr-mutable-indexes: 2.3.2
-      marked: 0.8.0
-      mime: 2.4.4
-      minimatch: 3.0.4
-      mkdirp: 0.5.1
-      mv: 2.1.1
-      pkginfo: 0.4.1
-      request: 2.87.0
-      semver: 7.1.2
-      verdaccio-audit: 8.5.2
-      verdaccio-htpasswd: 8.5.2
-    dev: true
-    engines:
-      node: '>=8'
-      npm: '>=5'
-    hasBin: true
-    resolution:
-      integrity: sha512-f126ip+zj+TqXC0NufjUpi11khEtGVTSSZKtAETHooYNHwIyvqNqArziXgDKGv+CUWWhO3Xnn3mZDlfodiHvxQ==
   /verdaccio/4.8.1:
     dependencies:
       '@verdaccio/commons-api': 9.7.1
@@ -23412,6 +23250,7 @@ packages:
       semver: 6.3.0
       verdaccio-audit: 9.7.3
       verdaccio-htpasswd: 9.7.2
+    dev: true
     engines:
       node: '>=8'
       npm: '>=5'
@@ -23576,7 +23415,7 @@ packages:
       mime: 2.4.6
       mkdirp: 0.5.5
       range-parser: 1.2.1
-      webpack: 4.43.0
+      webpack: 4.43.0_webpack@4.43.0
       webpack-log: 2.0.0
     dev: false
     engines:
@@ -23616,7 +23455,7 @@ packages:
       strip-ansi: 3.0.1
       supports-color: 6.1.0
       url: 0.11.0
-      webpack: 4.43.0
+      webpack: 4.43.0_webpack@4.43.0
       webpack-dev-middleware: 3.7.2_webpack@4.43.0
       webpack-log: 2.0.0
       ws: 6.2.1
@@ -23676,7 +23515,7 @@ packages:
     dev: false
     resolution:
       integrity: sha512-kDUmfm3BZrei0y+1NTHJInejzxfhtU8eDj2M7OKb2IWrPFAeO1SOH2KuQ68MSZu9IGEHcxbkKKR1v18FrUSOmA==
-  /webpack/4.43.0:
+  /webpack/4.43.0_webpack@4.43.0:
     dependencies:
       '@webassemblyjs/ast': 1.9.0
       '@webassemblyjs/helper-module-context': 1.9.0
@@ -23705,6 +23544,8 @@ packages:
     engines:
       node: '>=6.11.5'
     hasBin: true
+    peerDependencies:
+      webpack: '*'
     resolution:
       integrity: sha512-GW1LjnPipFW2Y78OOab8NJlCflB7EFskMih2AHdvjbpKMeDJqEgSx24cXXXiPS65+WSwVyxtDsJH6jGX2czy+g==
   /websocket-driver/0.6.5:
@@ -23843,11 +23684,13 @@ packages:
     resolution:
       integrity: sha512-Hz/mrNwitNRh/HUAtM/VT/5VH+ygD6DV7mYKZAtHOrbs8U7lvPS6xf7EJKMF0uW1KJCl0H701g3ZGus+muE5vQ==
   /wordwrap/0.0.3:
+    dev: false
     engines:
       node: '>=0.4.0'
     resolution:
       integrity: sha1-o9XabNXAvAAI03I0u68b7WMFkQc=
   /wordwrap/1.0.0:
+    dev: true
     resolution:
       integrity: sha1-J1hIEIkUVqQXHI0CJkQa3pDLyus=
   /worker-farm/1.7.0:
@@ -23870,6 +23713,7 @@ packages:
       ansi-styles: 3.2.1
       string-width: 3.1.0
       strip-ansi: 5.2.0
+    dev: false
     engines:
       node: '>=6'
     resolution:
@@ -24056,6 +23900,7 @@ packages:
     dependencies:
       camelcase: 5.3.1
       decamelize: 1.2.0
+    dev: false
     resolution:
       integrity: sha512-3lbsNRf/j+A4QuSZfDRA7HRSfWrzO0YjqTJd5kjAq37Zep1CEgaYmrH9Q3GwPiB9cHyd1Y1UwggGhJGoxipbzg==
   /yargs-parser/18.1.3:
@@ -24078,6 +23923,7 @@ packages:
       which-module: 2.0.0
       y18n: 4.0.0
       yargs-parser: 13.1.2
+    dev: false
     resolution:
       integrity: sha512-AX3Zw5iPruN5ie6xGRIDgqkT+ZhnRlZMLMHAs8tg7nRruy2Nb+i5o9bwghAogtM08q1dpr2LVoS8KSTMYpWXUw==
   /yargs/15.3.1:

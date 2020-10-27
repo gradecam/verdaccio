@@ -27,7 +27,22 @@
     "@verdaccio/dev-types": "5.0.0-alpha.0",
     "@verdaccio/utils": "5.0.0-alpha.0",
     "verdaccio": "5.0.0-alpha.0",
-    "@verdaccio/web": "5.0.0-alpha.0"
+    "@verdaccio/web": "5.0.0-alpha.0",
+    "@verdaccio/active-directory": "10.0.0-beta",
+    "verdaccio-audit": "10.0.0-beta",
+    "verdaccio-auth-memory": "10.0.0-beta",
+    "verdaccio-aws-s3-storage": "10.0.0-beta",
+    "verdaccio-google-cloud": "10.0.0-beta",
+    "verdaccio-memory": "10.0.0-beta",
+    "@verdaccio/website": "0.0.1"
   },
-  "changesets": []
+  "changesets": [
+    "fifty-jars-rest",
+    "gentle-trains-switch",
+    "late-parents-act",
+    "plenty-spiders-melt",
+    "pretty-hounds-tap",
+    "shiny-chefs-heal",
+    "three-pots-sit"
+  ]
 }
